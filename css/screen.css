@@ -43,13 +43,22 @@ button, input {
   overflow: visible;
 }
 
-@media screen and (min-width: 336px) {
-  #wrap {
-    display: inline-block;
-    justify-content: center;
+@media screen and (min-width: 500px){
+  #content{
+    text-align: center;
+    margin: 5% auto 5% auto;
+    width: 90%;
+  }
+  
+  input{
+    align-self: center;
+    width: auto;
+  }
+
+  fieldset{
+    text-align: center;
   }
 }
-
 @media screen and (min-width: 580px) {
   html {
     display: inline-block;
