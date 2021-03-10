@@ -30,7 +30,6 @@ label {
 
 li {
   padding-bottom: .75em; 
-  text-align: center;
 }
 
 [type="date"] {
@@ -47,7 +46,7 @@ button, input {
 @media screen and (min-width: 336px) {
   #wrap {
     display: inline-block;
-    justify-content: left;
+    justify-content: center;
   }
 }
 
