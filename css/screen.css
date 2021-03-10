@@ -5,7 +5,7 @@ html {
   font-size: 1.125em; 
   line-height: 1.55555em; 
   padding: 1.55555em; 
-  background-color: #9c9fa1;
+  background-color: #818181;
 }
 fieldset{
   border-color: transparent;
@@ -13,14 +13,14 @@ fieldset{
 
 #content {
   border-color: transparent;
-  background-color: #8a8a8a
+  background-color: #b4b3b3
 }
 
 h1 {
-  font-size: 1.33em; 
+  font-size: 1.75em; 
   font-weight: bolder;
   padding-top: 1em; 
-  padding-bottom: 1em; 
+  padding-bottom: 1.25em; 
 }
 
 label {
@@ -40,7 +40,7 @@ li {
 button, input {
   font-family: 'Shippori Mincho', Georgia, "Times New Roman", Times, Roman, serif;
   border-color: transparent;
-  background-color: #515252;
+  background-color: #606161;
   overflow: visible;
 }
 
@@ -48,6 +48,7 @@ button, input {
   #wrap {
     display: inline-block;
     justify-content: center;
+    text-align: center;
   }
 }
 
