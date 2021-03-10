@@ -52,7 +52,7 @@ button, input {
   
   input{
     align-self: center;
-    width: auto;
+    width: 85%;
   }
 
   fieldset{
