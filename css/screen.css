@@ -52,11 +52,7 @@ button, input {
   
   input{
     align-self: center;
-    width: 85%;
-  }
-
-  fieldset{
-    text-align: center;
+    width: 90%;
   }
 }
 @media screen and (min-width: 580px) {
